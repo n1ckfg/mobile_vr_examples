@@ -1,0 +1,12 @@
+/* fullscreens three.js window. */
+/* You generally don't need to change anything here. */
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  color: #fff;
+  margin: 0px;
+  padding: 0;
+  overflow: hidden;
+}
